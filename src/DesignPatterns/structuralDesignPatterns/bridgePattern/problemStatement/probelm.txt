@@ -1,0 +1,5 @@
+in case all the implementor are  tighlty coupled with its abstract class.
+In case we need to add new breathing process then we have to creator class and do all stuff.
+
+But with the help of bridge pattern we can make in looslly coupled.
+Both class can grow independently.
